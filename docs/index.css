@@ -21,3 +21,8 @@ nav {
   footer{
     text-align: center;
   }
+  
+.starter-template {
+    padding: 40px 15px;
+    background-color : #F4F0E4
+    }
