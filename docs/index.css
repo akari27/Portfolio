@@ -1,33 +1,3 @@
-/*------------------------------------------
-  Foundation Media Queries 
-   https://get.foundation/sites/docs/media-queries.html
---------------------------------------------*/
- 
-/* Small screens - スマホ */
-@media only screen { } /* スマホ用のスタイル -モバイルファースト */
- 
-@media only screen and (max-width: 40em) { } /* 最大幅640px、スマホ専用のスタイル */
- 
-/* Medium screens - タブレット */
-@media only screen and (min-width: 40.063em) { } /* 最小幅641px、Mediumスクリーン */
- 
-@media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* 最小幅641pxおよび最大幅1024px、タブレット専用のスタイル */
- 
-/* Large screens - デスクトップ */
-@media only screen and (min-width: 64.063em) { } /* 最小幅1025px、Largeスクリーン */
- 
-@media only screen and (min-width: 64.063em) and (max-width: 90em) { } /* 最小幅1025pxおよび最大幅1440px、Largeスクリーン専用のスタイル */
- 
-/* XLarge screens */
-@media only screen and (min-width: 90.063em) { } /* 最小幅1441px、XLargeスクリーン */
- 
-@media only screen and (min-width: 90.063em) and (max-width: 120em) { } /* 最小幅1441pxおよび最大幅1920px、XLargeのスクリーン専用のスタイル */
- 
-/* XXLarge screens */
-@media only screen and (min-width: 120.063em) { } /* 最小幅1921px、XXLargeスクリーン */
- 
-/*------------------------------------------*/
-
 nav {
     width: 100%;
     height: 70px;
