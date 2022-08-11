@@ -1,9 +1,11 @@
   ul.menu {
     display: flex;
   }
+  
   li.menu {
     list-style: none;
   }
+  
   a {
     display: block;
     text-decoration: none;
@@ -12,31 +14,33 @@
   }
   
   h3 {
-  font-family: 'Vollkorn', serif;
+    font-family: 'Vollkorn', serif;
   }
 
   footer{
     text-align: center;
-    }
+  }
 
-body {
-background-color:#F4F0E4;
-}
+  body {
+    background-color:#F4F0E4;
+    padding-top: 60px;
+  }
 
-.starter-template{
-background-color:white;
-}
+  .starter-template{
+    background-color:white;
+  }
 
-.contents{
-position: relative;
-width: 85%;
-height: ;
-padding-top: 56.25%;
-}
-.contents iframe {
-position: absolute;
-top: 0;
-left: 0;
-width: 85%;
-height: 85%;
-}
+  .contents{
+    position: relative;
+    width: 85%;
+    height: ;
+    padding-top: 56.25%;
+  }
+  
+  .contents iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 85%;
+    height: 85%;
+  }
