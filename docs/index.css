@@ -10,13 +10,13 @@
     color: white;
     margin-right: 35px;
   }
+  
+  h3 {
+  font-family: 'Vollkorn', serif;
+  }
 
   footer{
     text-align: center;
-    }
-  
-  h3 {
-    font-family: 'Vollkorn', serif;
     }
 
 body {
