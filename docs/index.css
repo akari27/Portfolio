@@ -10,10 +10,6 @@
     margin-right: 35px;
   }
 
-  #skill_text{
-    text-align: center;
-  }
-
   img{
     display: block;
     margin:auto;
@@ -28,6 +24,10 @@
   #about_text{
     display: block;
     margin:auto;
+  }
+
+  #skill_text{
+    text-align: center;
   }
 
   section#about{
