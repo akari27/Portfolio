@@ -1,0 +1,75 @@
+  body {
+    background-color:#DBDCDB;
+    padding-top: 60px;
+  }
+  
+  a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-right: 35px;
+  }
+
+  #skill_text{
+    text-align: center;
+  }
+
+  img{
+    display: block;
+    margin:auto;
+  }
+
+  section{
+    padding:5%;
+    padding-left:20%;
+    padding-right:20%;
+  }
+
+  #about_text{
+    display: block;
+    margin:auto;
+  }
+
+  section#about{
+    padding-bottom:0%;
+  }
+  
+  h1 {
+    font-family: 'Vollkorn', serif;
+    text-align: center;
+    padding-bottom: 2%;
+  }
+  
+  .profile{
+    background-color:#9CBBDD;
+  }
+
+  .works{
+    padding-left:10%;
+    padding-right:10%;
+  }
+
+  .contact{
+    background-color:#DBDCDB;
+  }
+  
+  .contents iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 85%;
+    height: 85%;
+  }
+
+  .wrap {
+    text-align: center;
+  }
+
+  footer{
+    background-color:#5C5559;
+    padding: 15px;
+    text-align: center;
+    color :white;
+    font-family: 'Vollkorn', serif;
+    font-size: 15px;
+  }
