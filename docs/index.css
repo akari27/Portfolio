@@ -1,5 +1,6 @@
   body {
-    background-color:#DBDCDB;
+    /* background-color:#DBDCDB; */
+    background-color:#ECECED;
     padding-top: 60px;
   }
   
@@ -8,10 +9,6 @@
     text-decoration: none;
     color: white;
     margin-right: 35px;
-  }
-
-  #skill_text{
-    text-align: center;
   }
 
   img{
@@ -28,7 +25,9 @@
   #about_text{
     display: block;
     margin:auto;
+    font-size: 18px;
     text-align: center;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
   }
 
   .about_text{
@@ -39,26 +38,32 @@
   section#about{
     padding-bottom:0%;
   }
+
+  #skill_text{
+    text-align: center;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+  }
   
   h1 {
     font-family: 'Vollkorn', serif;
     text-align: center;
     padding-bottom: 2%;
   }
-
-  h3 {
-    font-family: 'Vollkorn', serif;
-    display: block;
-    margin:auto;
-  }
   
   .profile{
     background-color:#9CBBDD;
+    /* background-color:#ECECED;
+    background-image: url(profile.PNG);
+    background-size: cover; */
   }
 
   .works{
     padding-left:10%;
     padding-right:10%;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    background-image: url(background.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 
   .contact{
