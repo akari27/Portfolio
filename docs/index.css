@@ -1,10 +1,9 @@
   body {
-    /* background-color:#DBDCDB; */
     background-color:#ECECED;
     padding-top: 60px;
   }
   
-/*   a {
+   a {
     display: block;
     text-decoration: none;
     color: white;
@@ -52,9 +51,6 @@
   
   .profile{
     background-color:#9CBBDD;
-    /* background-color:#ECECED;
-    background-image: url(profile.PNG);
-    background-size: cover; */
   }
 
   .works{
