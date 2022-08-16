@@ -1,46 +1,32 @@
   body {
-    background-color:#ECECED;
+    background-color:#DBDCDB;
     padding-top: 60px;
   }
   
-   a {
+  a {
     display: block;
     text-decoration: none;
     color: white;
     margin-right: 35px;
   }
-
-  img {
+  #skill_text{
+    text-align: center;
+  }
+  img{
     display: block;
     margin:auto;
   }
-
   section{
     padding:5%;
     padding-left:20%;
     padding-right:20%;
   }
-
   #about_text{
     display: block;
     margin:auto;
-    font-size: 18px;
-    text-align: center;
-    font-family: 'Zen Kaku Gothic New', sans-serif;
   }
-
-  .about_text{
-    display: inline-block;
-    text-align: left;
-  }
-
   section#about{
     padding-bottom:0%;
-  }
-
-  #skill_text{
-    text-align: center;
-    font-family: 'Zen Kaku Gothic New', sans-serif;
   }
   
   h1 {
@@ -48,20 +34,20 @@
     text-align: center;
     padding-bottom: 2%;
   }
-  
+
+  h3 {
+    font-family: 'Vollkorn', serif;
+    display: block;
+    margin:auto;
+  }
+
   .profile{
     background-color:#9CBBDD;
   }
-
   .works{
     padding-left:10%;
     padding-right:10%;
-    font-family: 'Zen Kaku Gothic New', sans-serif;
-    background-image: url(background.PNG);
-    background-size: cover;
-    background-repeat: no-repeat;
   }
-
   .contact{
     background-color:#DBDCDB;
   }
@@ -73,16 +59,14 @@
     width: 85%;
     height: 85%;
   }
-
   .wrap {
     text-align: center;
   }
-
   footer{
     background-color:#5C5559;
     padding: 15px;
     text-align: center;
-    color : white;
+    color :white;
     font-family: 'Vollkorn', serif;
     font-size: 15px;
   }
