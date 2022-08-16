@@ -1,5 +1,5 @@
   body {
-    background-color:#DBDCDB;
+    background-color:#ECECED;
     padding-top: 60px;
   }
   
@@ -9,13 +9,12 @@
     color: white;
     margin-right: 35px;
   }
-  #skill_text{
-    text-align: center;
-  }
+
   img{
     display: block;
     margin:auto;
   }
+
   section{
     padding:5%;
     padding-left:20%;
@@ -24,11 +23,18 @@
   #about_text{
     display: block;
     margin:auto;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
   }
   section#about{
     padding-bottom:0%;
   }
   
+  #skill_text{
+    text-align: center;
+  }
+
   h1 {
     font-family: 'Vollkorn', serif;
     text-align: center;
