@@ -27,12 +27,14 @@
     text-align: center;
     font-family: 'Zen Kaku Gothic New', sans-serif;
   }
+  
   section#about{
     padding-bottom:0%;
   }
   
   #skill_text{
     text-align: center;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
   }
 
   h1 {
@@ -50,10 +52,16 @@
   .profile{
     background-color:#9CBBDD;
   }
+  
   .works{
     padding-left:10%;
     padding-right:10%;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    background-image: url("https://akari27.github.io/Portfolio/background.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
   }
+  
   .contact{
     background-color:#DBDCDB;
   }
