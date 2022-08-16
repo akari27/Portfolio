@@ -28,6 +28,12 @@
   #about_text{
     display: block;
     margin:auto;
+    text-align: center;
+  }
+
+  .about_text{
+    display: inline-block;
+    text-align: left;
   }
 
   section#about{
