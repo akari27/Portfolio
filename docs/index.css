@@ -20,6 +20,7 @@
     padding-left:20%;
     padding-right:20%;
   }
+  
   #about_text{
     display: block;
     margin:auto;
@@ -73,9 +74,11 @@
     width: 85%;
     height: 85%;
   }
+  
   .wrap {
     text-align: center;
   }
+  
   footer{
     background-color:#5C5559;
     padding: 15px;
