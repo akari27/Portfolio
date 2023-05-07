@@ -55,6 +55,12 @@
     margin:auto;
   }
 
+  h4 {
+    font-family: 'Vollkorn', serif;
+    text-align: center;
+    padding-bottom: 2%;
+  }
+
   .profile{
     background-color:#9CBBDD;
   }
